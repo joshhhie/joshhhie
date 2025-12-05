@@ -52,5 +52,5 @@ text block
 text block
 
 <div align="right">
-  <img src="edf0cbe4-e139-4cb4-a792-acd7bc765bf8.png" width="420" />
+  <img src="edf0cbe4-e139-4cb4-a792-acd7bc765bf8.png" width="1000" />
 </div>
