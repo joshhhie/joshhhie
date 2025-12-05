@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&letterSpacing=&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=rawscriptserver.com)](https://git.io/typing-svg)
 
 <div align="right">
   <img src="linhas-de-flores.gif" width="420" />
@@ -56,3 +55,4 @@ text block
 <div align="right">
   <img src="edf0cbe4-e139-4cb4-a792-acd7bc765bf8.png" width="1000" />
 </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&letterSpacing=&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=rawscriptserver.com)](https://git.io/typing-svg)
