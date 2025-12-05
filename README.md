@@ -1,100 +1,52 @@
 <div align="right">
-  <img src="https://media.tenor.com/YOUR-GIF-LINK.gif" width="420" />
+  <img src="linhas-de-flores.gif" width="420" />
 </div>
 
-# hey
+# hi, i'm josh
 
-short intro about you goes here. your focus keyword goes right at the start.  
-keep it simple, you can add whatever vibe you want.
-
----
-
-## stuff i’m working on
-
-- small projects  
-- scripts  
-- random experiments  
-- whatever you feel like putting here  
+super cool intro look advanced so cute contributions u can find at my alt account :c
 
 ---
 
-## goals
+## stuff i'm doing
 
-- learn new things  
-- write cleaner code  
-- try different languages  
-- break stuff and fix it again  
-
----
-
-## tools i use
-
-| tool | use case |
-|------|----------|
-| lua | quick scripts |
-| python | small automation |
-| js | web bits |
-| obsidian | notes |
-| github | version control |
+- working on RSS/rawscriptserver.com (roblox webhook protection app)
+- working on expanding RSS/ to protect roblox scripts  
+- working on improving my website and patching vulns  
 
 ---
 
-## random notes
+## tools
 
-i keep this part long on purpose so the readme pushes your contribution graph way down. add anything you want: ideas, sketches, notes, todo lists.
-
-### log
-
-- day 1: started a repo  
-- day 2: added a few lines  
-- day 3: cleaned stuff  
-- day 4: fixed some bugs  
-- day 5: more refactoring  
-- day 6: tried a new approach  
-- day 7: rewrote a bunch  
-- day 8: kept tweaking  
-- day 9: documented things  
-- day 10: reorganised files  
-- day 11: added comments  
-- day 12: tested things  
-- day 13: removed old code  
-- day 14: added features  
-- day 15: simplified some parts  
-- day 16: updated configs  
-- day 17: created helpers  
-- day 18: tuned performance  
-- day 19: trimmed unused bits  
-- day 20: wrote notes  
-- day 21: pushed updates  
-- day 22: adjusted settings  
-- day 23: reviewed code  
-- day 24: cleaned naming  
-- day 25: tried new layout  
-- day 26: updated docs  
-- day 27: added examples  
-- day 28: reorganised folders  
-- day 29: tweaked logic  
-- day 30: wrote extra notes  
-- add as many as you want, it pads the page nicely.
+| tool | use |
+|------|-----|
+| luau | scripts, hobby |
+| python | automation |
+| js | front-end bits |
 
 ---
 
-## contact
+## daily log
 
-- you can link socials here  
-- email if you want  
-- any extra info  
+day 1: lazy 1
+day 2: lazy 2 
+day 3: lzzy 3 
+day 4: lazy 4  
+day 5: lazy 5
+day 6: coming soon 
+day 7: coming soon   
+day 8: coming soon 
+day 9: coming soon   
+day 10: coming soon 
 
 ---
 
-### extra padding section (you can repeat this)
+## padding
 
-lorem text block  
-lorem text block  
-lorem text block  
-lorem text block  
-lorem text block  
-lorem text block  
-lorem text block  
-
-copy that chunk a few times and the readme gets very long.
+text block  
+text block  
+text block  
+text block  
+text block  
+text block  
+text block  
