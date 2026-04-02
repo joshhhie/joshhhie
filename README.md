@@ -1,6 +1,6 @@
 
 <div align="right">
-  <img src="linhas-de-flores.gif" width="420" />
+  <img src="gmail-pixel-art.gif" width="420" />
 </div>
 
 
