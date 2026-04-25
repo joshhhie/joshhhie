@@ -1,3 +1,3 @@
-<div align="right">
-  <img src="gmail-pixel-art.gif" width="200" />
+<div align="center">
+  <img src="gmail-pixel-art.gif" width="100%" />
 </div>
